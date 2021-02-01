@@ -69,13 +69,13 @@ body {
 /*setting up fonts*/
 h1{
 	font-family: 'Special Elite', cursive;
-	
+	font-size: 30px;
 	color: white;
 }
 
 h2{
 	font-family: 'Special Elite', cursive;
-	font-size: 85px;
+	font-size: 70px;
 	color: #77FF33;
 }
 
